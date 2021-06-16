@@ -8,7 +8,7 @@
   * Run via Docker
   `docker-compose up`
   
-  * Run locallly
+  * Run locally
   `java -jar target/SpringBootApplication1-0.0.1-SNAPSHOT.jar`
 
 
