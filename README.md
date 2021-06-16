@@ -14,7 +14,7 @@
 
 * **URL**
 
-  <url>:8080/touchtunes/tech-assignment/jukeboxes?settingId=53a7d3ae-0fc4-4f36-889a-683aa46eb33d&model=abcdef&offset=1&limit=20
+  url:8080/touchtunes/tech-assignment/jukeboxes?settingId=53a7d3ae-0fc4-4f36-889a-683aa46eb33d&model=abcdef&offset=1&limit=20
 
 * **Method:**
 
